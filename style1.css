@@ -7,11 +7,11 @@ html {
 }
 
 table {
-	color: black; 
+	color: white; 
 }
 
 h1, h5 {
-  color: black;
+  color: white;
   text-align: center;
 }
 
@@ -25,17 +25,17 @@ p {
 .quote {
 	font-size: 20px;
     text-align: center;
-    color: black;
+    color: white;
    
 }
 h2{
    text-align: left;
-	color: black;   
+	color: white;   
 }
 li {
   font-family: Carter One;
   text-align: justify;
-  color: black; 
+  color: white; 
 }
 
 .box {
@@ -81,7 +81,7 @@ li {
   font-size: 25px;
   font-family: 'Titillium Web', sans-serif;
   text-align: center;
-  color: black;
+  color: white;
 }
 
 a.impact:link {
@@ -106,7 +106,7 @@ a.impact:hover {
 }
 
 .fa:hover {
-  color: black;
+  color: white;
 }
 
 .url {
@@ -187,7 +187,7 @@ a.url-gt:visited {
   margin-top: 25px;
   border: none;
   border-radius: 25px;
-  color: black;
+  color: white;
 }
 
 .button:hover {
